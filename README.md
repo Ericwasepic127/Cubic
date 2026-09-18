@@ -1,5 +1,17 @@
 # Cubic
 
+<pre> ________  ___  ___  ________  ___  ________     
+|\   ____\|\  \|\  \|\   __  \|\  \|\   ____\    
+\ \  \___|\ \  \\\  \ \  \|\ /\ \  \ \  \___|    
+ \ \  \    \ \  \\\  \ \   __  \ \  \ \  \       
+  \ \  \____\ \  \\\  \ \  \|\  \ \  \ \  \____  
+   \ \_______\ \_______\ \_______\ \__\ \_______\
+    \|_______|\|_______|\|_______|\|__|\|_______|
+                                                 
+                                                 
+                                                 
+</pre>
+
 <img src="https://github.com/PJ-Singh-001/Cubic/blob/release/screenshots/cubic_512x512.png" height="128"/>
 
 **[Cubic](https://github.com/PJ-Singh-001/Cubic) ([Custom Ubuntu ISO Creator](https://github.com/PJ-Singh-001/Cubic)) is a GUI wizard to create a customized Live ISO image for Ubuntu and Debian based distributions.**
